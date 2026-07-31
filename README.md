@@ -64,20 +64,27 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <sub>Mathematical approaches for understanding ecological interactions and complex biological systems.</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-        <img
-          src="https://img.youtube.com/vi/9bEzYwKjxE4/maxresdefault.jpg"
-          alt="Research and Innovation"
-          width="320"
-        >
-      </a>
-      <br>
-      <strong>Research and Innovation</strong>
-      <br>
-      <sub>Innovation, interdisciplinary research, and the transfer of scientific knowledge into practical solutions.</sub>
-    </td>
-  </tr>
-</table>
+  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+    <img
+      src="https://img.youtube.com/vi/9bEzYwKjxE4/maxresdefault.jpg"
+      alt="Research and Innovation"
+      width="320"
+    >
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+    <strong>Research and Innovation</strong>
+  </a>
+  <br>
+  <sub>
+    Innovation, interdisciplinary research, and the transfer of scientific
+    knowledge into practical solutions.
+  </sub>
+  <br>
+  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+    ▶ Watch on YouTube
+  </a>
+</td>
 
 ### Connect with me
 
