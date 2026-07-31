@@ -1,25 +1,27 @@
 # Hi, I'm William Campillay-Llanos 👋
 
-### Applied Mathematician | Mathematical Modelling | Agricultural & Biological Systems
+### Applied Mathematician | Biomathematical Modelling | Digital Agriculture
 
 I develop mathematical and computational models connecting **mathematics, biology, agriculture, and climate science**.
 
-* 🔭 Working on crop phenology, plant disease dynamics and sustainable food production
-* 🌱 Exploring AI, computer vision and reaction–diffusion models
-* 🤝 Open to interdisciplinary research collaborations
-* 💬 Ask me about differential equations and biological modelling
-* 🎓 PhD in Applied Mathematical Modelling | IEEE Senior Member
+- 🔬 Research: crop phenology, plant diseases, ecological dynamics, and climate extremes
+- 💻 Methods: differential equations, numerical modelling, AI, and computer vision
+- 🌱 Focus: digital agriculture, sustainable food production, and climate adaptation
+- 🎓 PhD in Applied Mathematical Modelling | IEEE Senior Member
+- 🤝 Open to interdisciplinary research and academic collaborations
 
-### 🎥 Recommended resources
+### 🚀 Current projects
 
-* [Git and GitHub for Researchers – Video 1](https://www.youtube.com/watch?v=4SUhdX-6jo0&t=226s)
-* [Git and GitHub for Researchers – Video 2](https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s)
+- 🍒 Spatio-temporal bioclimatic modelling of cherry phenology
+- 🌾 AI and computer vision for digital monitoring of quinoa
+- 🦠 Mathematical modelling of plant disease dynamics
+- 🌡️ Climate extremes and their effects on agricultural systems
+- 🌿 Digital phenology for climate-smart agriculture
 
-## 📫 Let's connect
+### Connect with me
 
-I am open to research collaborations, interdisciplinary projects, academic opportunities, and initiatives that connect **mathematics with agriculture, biology, and food production**.
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2853--080X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2853-080X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/William_Campillay-Llanos)
+[![Academic Website](https://img.shields.io/badge/Academic-Website-1F4E79)](https://sites.google.com/site/williamcampillay)
 
----
-
-> *Mathematics provides a language for understanding complex systems and transforming scientific knowledge into practical solutions.*
-
+> *Using mathematics to understand complex biological systems and support sustainable agriculture.*
