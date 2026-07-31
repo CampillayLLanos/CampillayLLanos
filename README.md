@@ -31,9 +31,17 @@ I develop mathematical and computational models connecting **mathematics, biolog
         >
       </a>
       <br>
-      <strong>Mathematics, Research, and Education</strong>
+      <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
+        <strong>Mathematics, Research, and Education</strong>
+      </a>
       <br>
-      <sub>My academic career and the role of applied mathematics in interdisciplinary science.</sub>
+      <sub>
+        My academic career and the role of applied mathematics in interdisciplinary science.
+      </sub>
+      <br>
+      <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
+        ▶ Watch on YouTube
+      </a>
     </td>
     <td width="50%" align="center">
       <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
@@ -44,9 +52,17 @@ I develop mathematical and computational models connecting **mathematics, biolog
         >
       </a>
       <br>
-      <strong>Biomathematical Modelling and Sweet Cherry Phenology</strong>
+      <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
+        <strong>Biomathematical Modelling and Sweet Cherry Phenology</strong>
+      </a>
       <br>
-      <sub>Digital phenology and mathematical modelling under changing climatic conditions.</sub>
+      <sub>
+        Digital phenology and mathematical modelling under changing climatic conditions.
+      </sub>
+      <br>
+      <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
+        ▶ Watch on YouTube
+      </a>
     </td>
   </tr>
   <tr>
@@ -59,32 +75,41 @@ I develop mathematical and computational models connecting **mathematics, biolog
         >
       </a>
       <br>
-      <strong>Theoretical Ecology</strong>
+      <a href="https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s">
+        <strong>Theoretical Ecology</strong>
+      </a>
       <br>
-      <sub>Mathematical approaches for understanding ecological interactions and complex biological systems.</sub>
+      <sub>
+        Mathematical approaches to ecological interactions and complex biological systems.
+      </sub>
+      <br>
+      <a href="https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s">
+        ▶ Watch on YouTube
+      </a>
     </td>
     <td width="50%" align="center">
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    <img
-      src="https://img.youtube.com/vi/9bEzYwKjxE4/maxresdefault.jpg"
-      alt="Research and Innovation"
-      width="320"
-    >
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    <strong>Research and Innovation</strong>
-  </a>
-  <br>
-  <sub>
-    Innovation, interdisciplinary research, and the transfer of scientific
-    knowledge into practical solutions.
-  </sub>
-  <br>
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    ▶ Watch on YouTube
-  </a>
-</td>
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        <img
+          src="https://img.youtube.com/vi/9bEzYwKjxE4/maxresdefault.jpg"
+          alt="Research and Innovation"
+          width="320"
+        >
+      </a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        <strong>Research and Innovation</strong>
+      </a>
+      <br>
+      <sub>
+        Innovation, interdisciplinary research, and scientific knowledge applied to practical solutions.
+      </sub>
+      <br>
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        ▶ Watch on YouTube
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Connect with me
 
