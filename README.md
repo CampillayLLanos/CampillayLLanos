@@ -20,18 +20,42 @@ I develop mathematical and computational models connecting **mathematics, biolog
 
 ### 🎥 Featured videos
 
-#### Interview: Mathematics, Research, and Education
-
-An interview about my academic career, research experience, and the role of applied mathematics in interdisciplinary science.
-
-[![Interview with William Campillay-Llanos](https://img.youtube.com/vi/4SUhdX-6jo0/maxresdefault.jpg)](https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s)
-
-#### Biomathematical Modelling and Sweet Cherry Phenology
-
-Digital phenology and mathematical modelling of sweet cherry development under changing climatic conditions.
-
-[![Biomathematical Modelling and Sweet Cherry Phenology](https://img.youtube.com/vi/aR2NzF7ZfZY/maxresdefault.jpg)](https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s)
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
+        <img
+          src="https://img.youtube.com/vi/4SUhdX-6jo0/maxresdefault.jpg"
+          alt="Interview with William Campillay-Llanos"
+          width="320"
+        >
+      </a>
+      <br>
+      <strong>Mathematics, Research, and Education</strong>
+      <br>
+      <sub>
+        My academic career and the role of applied mathematics in
+        interdisciplinary science.
+      </sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
+        <img
+          src="https://img.youtube.com/vi/aR2NzF7ZfZY/maxresdefault.jpg"
+          alt="Biomathematical Modelling and Sweet Cherry Phenology"
+          width="320"
+        >
+      </a>
+      <br>
+      <strong>Biomathematical Modelling and Sweet Cherry Phenology</strong>
+      <br>
+      <sub>
+        Digital phenology and mathematical modelling under changing
+        climatic conditions.
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ### Connect with me
 
