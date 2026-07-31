@@ -22,12 +22,13 @@ I develop mathematical and computational models connecting **mathematics, biolog
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
         <img
-          src="https://img.youtube.com/vi/4SUhdX-6jo0/maxresdefault.jpg"
+          src="https://img.youtube.com/vi/4SUhdX-6jo0/hqdefault.jpg"
           alt="Mathematics, Research, and Education"
-          width="320"
+          width="300"
+          height="169"
         >
       </a>
       <br>
@@ -38,17 +39,18 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <sub>
         My academic career and the role of applied mathematics in interdisciplinary science.
       </sub>
-      <br>
+      <br><br>
       <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
         ▶ Watch on YouTube
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
         <img
-          src="https://img.youtube.com/vi/aR2NzF7ZfZY/maxresdefault.jpg"
+          src="https://img.youtube.com/vi/aR2NzF7ZfZY/hqdefault.jpg"
           alt="Biomathematical Modelling and Sweet Cherry Phenology"
-          width="320"
+          width="300"
+          height="169"
         >
       </a>
       <br>
@@ -59,19 +61,20 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <sub>
         Digital phenology and mathematical modelling under changing climatic conditions.
       </sub>
-      <br>
+      <br><br>
       <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
         ▶ Watch on YouTube
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s">
         <img
-          src="https://img.youtube.com/vi/Qzj-DgVuW-4/maxresdefault.jpg"
+          src="https://img.youtube.com/vi/Qzj-DgVuW-4/hqdefault.jpg"
           alt="Theoretical Ecology"
-          width="320"
+          width="300"
+          height="169"
         >
       </a>
       <br>
@@ -82,32 +85,34 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <sub>
         Mathematical approaches to ecological interactions and complex biological systems.
       </sub>
-      <br>
+      <br><br>
       <a href="https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s">
         ▶ Watch on YouTube
       </a>
     </td>
-    <td width="50%" align="center">
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    <img
-      src="https://img.youtube.com/vi/9bEzYwKjxE4/hqdefault.jpg"
-      alt="Research and Innovation"
-      width="320"
-    >
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    <strong>Research and Innovation</strong>
-  </a>
-  <br>
-  <sub>
-    Innovation, interdisciplinary research, and scientific knowledge applied to practical solutions.
-  </sub>
-  <br>
-  <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
-    ▶ Watch on YouTube
-  </a>
-</td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        <img
+          src="https://img.youtube.com/vi/9bEzYwKjxE4/hqdefault.jpg"
+          alt="Research and Innovation"
+          width="300"
+          height="169"
+        >
+      </a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        <strong>Research and Innovation</strong>
+      </a>
+      <br>
+      <sub>
+        Innovation, interdisciplinary research, and scientific knowledge applied to practical solutions.
+      </sub>
+      <br><br>
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        ▶ Watch on YouTube
+      </a>
+    </td>
+  </tr>
 </table>
 
 ### Connect with me
