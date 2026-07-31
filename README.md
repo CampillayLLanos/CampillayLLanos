@@ -26,17 +26,14 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <a href="https://www.youtube.com/watch?v=4SUhdX-6jo0&t=227s">
         <img
           src="https://img.youtube.com/vi/4SUhdX-6jo0/maxresdefault.jpg"
-          alt="Interview with William Campillay-Llanos"
+          alt="Mathematics, Research, and Education"
           width="320"
         >
       </a>
       <br>
       <strong>Mathematics, Research, and Education</strong>
       <br>
-      <sub>
-        My academic career and the role of applied mathematics in
-        interdisciplinary science.
-      </sub>
+      <sub>My academic career and the role of applied mathematics in interdisciplinary science.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://www.youtube.com/watch?v=aR2NzF7ZfZY&t=95s">
@@ -49,10 +46,35 @@ I develop mathematical and computational models connecting **mathematics, biolog
       <br>
       <strong>Biomathematical Modelling and Sweet Cherry Phenology</strong>
       <br>
-      <sub>
-        Digital phenology and mathematical modelling under changing
-        climatic conditions.
-      </sub>
+      <sub>Digital phenology and mathematical modelling under changing climatic conditions.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/watch?v=Qzj-DgVuW-4&t=4s">
+        <img
+          src="https://img.youtube.com/vi/Qzj-DgVuW-4/maxresdefault.jpg"
+          alt="Theoretical Ecology"
+          width="320"
+        >
+      </a>
+      <br>
+      <strong>Theoretical Ecology</strong>
+      <br>
+      <sub>Mathematical approaches for understanding ecological interactions and complex biological systems.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/watch?v=9bEzYwKjxE4&t=1218s">
+        <img
+          src="https://img.youtube.com/vi/9bEzYwKjxE4/maxresdefault.jpg"
+          alt="Research and Innovation"
+          width="320"
+        >
+      </a>
+      <br>
+      <strong>Research and Innovation</strong>
+      <br>
+      <sub>Innovation, interdisciplinary research, and the transfer of scientific knowledge into practical solutions.</sub>
     </td>
   </tr>
 </table>
